@@ -1,3 +1,3 @@
 print("hi")
 print("hello")
-printf("user")
+print("user")
