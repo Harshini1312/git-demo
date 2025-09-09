@@ -26,3 +26,5 @@ jobs:
     - name: Install dependencies
       run: |
        python user.py
+    - name: Run unit tests
+      run: pytest
